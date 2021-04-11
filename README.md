@@ -1,6 +1,6 @@
 ### Hello, I am Justin 👋
 
-I am a devops engineer at IBM making sure compilers get built on time and are ready to 🚢. Currently learning some gold standard web development, project management and Flutter in my spare time 🌱. Before I was social distancing I used be a gym rat especially proud of my squats 🏋️. Ask me about index funds 📈 or what kind of fitness routine I follow. For engineering matters you're well off with your search engine.
+I am a devops engineer at IBM making sure compilers get built on time and are ready to 🚢. Currently learning some gold standard web development, project management and Flutter in my spare time 🌱...Infrastructure as code.. amirite... Before I started social distancing I used be a gym rat especially proud of my squats 🏋️. Ask me about index funds 📈 or what kind of fitness routine I follow. For engineering matters you're well off with your search engine.
 
 <!--
 **justinjk007/justinjk007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
