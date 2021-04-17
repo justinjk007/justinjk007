@@ -2,7 +2,7 @@
 
 I am a devops engineer at IBM making sure compilers get built on time and are ready to 🚢...Infrastructure as code...amirit... Also learning some gold standard web development, project management and Flutter in my spare time 🌱. Before I started social distancing I used be a gym rat especially proud of my squats 🏋️. Ask me about index funds 📈 or what kind of fitness routine I follow. For engineering matters you're well off with your search engine.
 
-[![Justin's Github stats](https://github-readme-stats.vercel.app/api?username=justinjk007&show_icons=true&theme=dark&count_private=true&hide=contribs,stars)]
+[![Justin's Github stats](https://github-readme-stats.vercel.app/api?username=justinjk007&show_icons=true&theme=dark&count_private=true&hide=contribs,stars)](https://github.com/justinjk007)
 
 <!--
 **justinjk007/justinjk007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
