@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Justin's Github stats" src="https://github-readme-stats.vercel.app/api?username=justinjk007&show_icons=true&theme=dark&count_private=true&hide=contribs,stars&custom_title=Justin's%20Github%20stats!" />
+<img alt="Justin's Github stats" src="https://github-readme-stats.vercel.app/api?username=justinjk007&show_icons=true&theme=dark&count_private=true&hide=contribs&custom_title=Justin's%20Github%20stats!" />
 </p>
 
 ### Hello, I am Justin 👋
